@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProyectoFinalCursoIntermedio:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProyectoFinalCursoIntermedio_jar</output-path>
+    <root id="archive" name="ProyectoFinalCursoIntermedio.jar">
+      <element id="module-output" name="ProyectoFinalCursoIntermedio" />
+      <element id="library" level="project" name="Programa" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/programa/drivers/itext5-itextpdf-5.5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/programa/drivers/mysql-connector-java-5.1.22-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/programa/drivers/sqlite-jdbc-3.8.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
